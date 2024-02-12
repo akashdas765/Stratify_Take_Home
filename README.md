@@ -1,4 +1,4 @@
-# Stratify_Take_Home
+# Structify_Take_Home
 Structify Take Home Question 
 
 # Chord Intersection Counter
